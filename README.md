@@ -1,0 +1,3 @@
+### Olá, caro(a) leitor(a).
+Esse repositório é referente aos projetos que fiz sozinho (ou participei) nas empresas em que trabalhei. Utilizei Python, SQL, Powershell Script e por aí vai...
+Tem microsserviços, relatórios, automações e afins. Divirta-se explorando (ou não, muahahaha).
